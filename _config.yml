@@ -3,7 +3,7 @@ title: Editorial
 subtitle: by HTML5 UP
 email: daniel@mcquilleninteractive.com
 description: News on technology in sustainability.
-baseurl: "/editorial-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "/tech-earth" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
 street_address: 
