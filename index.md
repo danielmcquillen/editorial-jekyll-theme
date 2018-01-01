@@ -13,7 +13,7 @@ layout: default
 			<h3>Macroeco : Using Python for Ecology Research</h3>
 			<p>A Word with Co-creator Justin Kitzes.</p>
 			<ul class="actions">
-				<li><a href="#" class="button">More</a></li>
+				<li><a href="stories/python_ecology_research.md" class="button">More</a></li>
 			</ul>
 		</article>
 		<article>
