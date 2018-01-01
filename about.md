@@ -3,8 +3,6 @@ layout: page
 title: About Tech+Earth
 ---
 
-<h1>About Me</h1>
-
 I’m concerned about the environment. I also geek out on software dev. You too? Right on.
 
 This blog is about the intersection between tech and sustainabilty. Check back for interviews, case studies, and even the odd code examples by experts in the field of sustainability science, green building and building performance, ecology or just the average developer working on a project that might make a difference.

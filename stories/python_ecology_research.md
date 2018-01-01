@@ -54,16 +54,17 @@ title: Macroeco : Using Python for Ecology Research
  
 
 <h2>Resources:</h2>
+
 <ul>
-	<li><a href="https://web.archive.org/web/20161026192040/http://software-carpentry.org/">Software Carpentry – teaching basic skills for research computing</li>
-	<li><a href="">Sublime Text</a></li>
-	<li><a href="">Jupyter</a></li>
-	<li><a href="">Homebrew</a></li>
-	<li><a href="">pandoc</a></li>
-	<li><a href="">LaTeX</a></li>
-	<li><a href="">nose a python unit testing framework</a></li>
-	<li><a href="">Docker a virtual container technology for software</a></li>
-	<li><a href="">wxPython a blending of the wxWidgets C++ class library with the Python programming language.</a></li>
+	<li><a href="http://software-carpentry.org/">Software Carpentry – teaching basic skills for research computing</li>
+	<li><a href="https://www.sublimetext.com/">Sublime Text</a></li>
+	<li><a href="http://jupyter.org/">Jupyter</a></li>
+	<li><a href="http://brew.sh/">Homebrew</a></li>
+	<li><a href="http://pandoc.org/">pandoc</a></li>
+	<li><a href="https://www.latex-project.org/">LaTeX</a></li>
+	<li><a href="http://nose.readthedocs.io/en/latest/">nose a python unit testing framework</a></li>
+	<li><a href="https://www.docker.com/">Docker a virtual container technology for software</a></li>
+	<li><a href="http://www.wxpython.org/">wxPython a blending of the wxWidgets C++ class library with the Python programming language.</a></li>
 </ul>
 
 
