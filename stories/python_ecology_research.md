@@ -46,7 +46,7 @@ title: Macroeco : Using Python for Ecology Research
 
 <p>And there you have it. You can follow Justin’s latest work on his website: http://www.justinkitzes.com/. And if you are working on a tech project related in some way to a more sustainable future, [ping me](https://twitter.com/danielmcq) and let me know!</p>
 
-[1] Kitzes, J. and Wilber, M. 2016. macroeco: reproducible ecological pattern analysis in Python. – Ecography 39: 361–367 (ver. 0).
+<span style="color: #999999">[1] Kitzes, J. and Wilber, M. 2016. macroeco: reproducible ecological pattern analysis in Python. – Ecography 39: 361–367 (ver. 0).</span>
 
  
 
