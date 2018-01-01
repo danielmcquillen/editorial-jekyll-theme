@@ -65,7 +65,7 @@ title: Macroeco : Using Python for Ecology Research
 	<li><a href="http://nose.readthedocs.io/en/latest/">nose a python unit testing framework</a></li>
 	<li><a href="https://www.docker.com/">Docker a virtual container technology for software</a></li>
 	<li><a href="http://www.wxpython.org/">wxPython a blending of the wxWidgets C++ class library with the Python programming language.</a></li>
-</ul>
+
 
 
 
