@@ -4,7 +4,7 @@ title: Macroeco : Using Python for Ecology Research
 ---
 
 
-<p>Justin Kitzes and Mark Wilber of the [Berkeley Institute of Data Science (BIDS)](https://web.archive.org/web/20161026192040/https://bids.berkeley.edu/) are the authors of [Macroeco](https://web.archive.org/web/20161026192040/https://pypi.python.org/pypi/macroeco), a python package that “supports the analysis of empirical macroecological patterns and the comparison of these patterns to theoretical predictions.”</p>
+<p>Justin Kitzes and Mark Wilber of the [Berkeley Institute of Data Science (BIDS)](https://web.archive.org/web/20161026192040/https://bids.berkeley.edu/) are the authors of [Macroeco](https://pypi.python.org/pypi/macroeco), a python package that “supports the analysis of empirical macroecological patterns and the comparison of these patterns to theoretical predictions.”</p>
 
 <p>He and Mark put together a great intro video which I’ve linked to above —  in fact, I think Justin’s approach should serve as a template for anybody doing an open source Python package: a fully featured package, a useful helper UI, an academic paper and a YouTube video to tie it all together!</p>
 
@@ -15,7 +15,7 @@ title: Macroeco : Using Python for Ecology Research
 
 <p>I do my coding in Sublime Text, occasionally making use of Jupyter notebooks as scratch pads. When writing core functions in our package, for example, I would generally work on the function in a module file in my editor, save it, import (and reload) the module in a Jupyter notebook, and run the function with some small test data to make sure it works properly. Once things seemed to be working OK, I’d start writing our test functions, back in my editor, which we then ran with nose. Personally, I’m probably more proud of our test suite than any other element of our package – very few scientific packages are well-tested, and we invested a lot of time in getting very good coverage with difficult and detailed examples.</p>
 
-<p>In terms of best practices, we largely followed the basic principles that are taught by Software Carpentry for good scientific programming, including structuring code, using version control, and project organization. I have a series of lessons on those ([http://datasci.kitzes.com](https://web.archive.org/web/20161026192040/http://datasci.kitzes.com/)) that I use for my own teaching.</p>
+<p>In terms of best practices, we largely followed the basic principles that are taught by Software Carpentry for good scientific programming, including structuring code, using version control, and project organization. I have a series of lessons on those ([http://datasci.kitzes.com](http://datasci.kitzes.com/)) that I use for my own teaching.</p>
 
 <p><em>Q: What are some of the challenges to creating open source libraries for scientific research and a community of peers?</em></p>
 
@@ -43,7 +43,7 @@ title: Macroeco : Using Python for Ecology Research
 
 <p>I don’t know about WHOAH!, but one thing that I do have my eye on are the increasing push towards suggesting, or requiring, that scientists follow good reproducible research practices, which is an area that I’m personally very interested in. I think that another “big deal” is going to be the rise of containerization technologies, like Docker, that help solve dependency and setup problems, which are hugely important and probably under-appreciated challenges to sharing and reusing code.</p>
 
-<p>And there you have it. You can follow Justin’s latest work on his website: http://www.justinkitzes.com/. And if you are working on a tech project related in some way to a more sustainable future, [ping me](https://web.archive.org/web/20161026192040/https://twitter.com/danielmcq) and let me know!</p>
+<p>And there you have it. You can follow Justin’s latest work on his website: http://www.justinkitzes.com/. And if you are working on a tech project related in some way to a more sustainable future, [ping me](https://twitter.com/danielmcq) and let me know!</p>
 
 [1] Kitzes, J. and Wilber, M. 2016. macroeco: reproducible ecological pattern analysis in Python. – Ecography 39: 361–367 (ver. 0).
 
