@@ -9,7 +9,7 @@ layout: default
 	</header>
 	<div class="posts">
 		<article>
-			<a href="#" class="image"><img src="assets/images/macroeco-logo.svg" alt="" /></a>
+			<a href="#" class="image"><img src="assets/images/macroeco-logo.png" alt="" /></a>
 			<h3>Macroeco : Using Python for Ecology Research</h3>
 			<p>A Word with Co-creator Justin Kitzes.</p>
 			<ul class="actions">
