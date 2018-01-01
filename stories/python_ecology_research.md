@@ -3,6 +3,7 @@ layout: page
 title: Macroeco : Using Python for Ecology Research
 ---
 
+<h1>Macroeco : Using Python for Ecology Research</h1>
 
 <p>Justin Kitzes and Mark Wilber of the [Berkeley Institute of Data Science (BIDS)](https://web.archive.org/web/20161026192040/https://bids.berkeley.edu/) are the authors of [Macroeco](https://pypi.python.org/pypi/macroeco), a python package that “supports the analysis of empirical macroecological patterns and the comparison of these patterns to theoretical predictions.”</p>
 
