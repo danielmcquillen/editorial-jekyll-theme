@@ -49,13 +49,16 @@ title: Macroeco : Using Python for Ecology Research
 
  
 
-Resources:
-Software Carpentry – teaching basic skills for research computing
-Sublime Text
-Jupyter
-Homebrew
-pandoc
-LaTeX
-nose a python unit testing framework
-Docker a virtual container technology for software
-wxPython a blending of the wxWidgets C++ class library with the Python programming language.
+<h2>Resources:</h2>
+<ul>
+	<li><a href="https://web.archive.org/web/20161026192040/http://software-carpentry.org/">Software Carpentry – teaching basic skills for research computing</li>
+	<li><a href="">Sublime Text</a></li>
+	<li><a href="">Jupyter</a></li>
+	<li><a href="">Homebrew</a></li>
+	<li><a href="">pandoc</a></li>
+	<li><a href="">LaTeX</a></li>
+	<li><a href="">nose a python unit testing framework</a></li>
+	<li><a href="">Docker a virtual container technology for software</a></li>
+	<li><a href="">wxPython a blending of the wxWidgets C++ class library with the Python programming language.</a></li>
+	</li>
+</ul>
