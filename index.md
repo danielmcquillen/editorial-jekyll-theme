@@ -25,7 +25,7 @@ layout: default
 			</ul>
 		</article>
 		<article>
-			<a href="#" class="image"><img src="assets/images/pic03.jpg" alt="" /></a>
+			<a href="#" class="image"><img src="assets/images/pic02.jpg" alt="" /></a>
 			<h3>Coming soon: Some Geeky Article</h3>
 			<p>.</p>
 			<ul class="actions">
@@ -33,7 +33,7 @@ layout: default
 			</ul>
 		</article>
 		<article>
-			<a href="#" class="image"><img src="assets/images/pic04.jpg" alt="" /></a>
+			<a href="#" class="image"><img src="assets/images/pic02.jpg" alt="" /></a>
 			<h3>Coming soon: Some Geeky Article</h3>
 			<p>.</p>
 			<ul class="actions">
@@ -41,7 +41,7 @@ layout: default
 			</ul>
 		</article>
 		<article>
-			<a href="#" class="image"><img src="assets/images/pic05.jpg" alt="" /></a>
+			<a href="#" class="image"><img src="assets/images/pic02.jpg" alt="" /></a>
 			<h3>Coming soon: Some Geeky Article</h3>
 			<p>.</p>
 			<ul class="actions">
@@ -49,7 +49,7 @@ layout: default
 			</ul>
 		</article>
 		<article>
-			<a href="#" class="image"><img src="assets/images/pic06.jpg" alt="" /></a>
+			<a href="#" class="image"><img src="assets/images/pic02.jpg" alt="" /></a>
 			<h3>Coming soon: Some Geeky Article</h3>
 			<p>.</p>
 			<ul class="actions">
