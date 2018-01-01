@@ -5,11 +5,14 @@ title: Macroeco : Using Python for Ecology Research
 
 <h1>Macroeco : Using Python for Ecology Research</h1>
 
-<p>Justin Kitzes and Mark Wilber of the [Berkeley Institute of Data Science (BIDS)](https://web.archive.org/web/20161026192040/https://bids.berkeley.edu/) are the authors of [Macroeco](https://pypi.python.org/pypi/macroeco), a python package that “supports the analysis of empirical macroecological patterns and the comparison of these patterns to theoretical predictions.”</p>
+<p>Justin Kitzes and Mark Wilber of the <a href="https://bids.berkeley.edu/">Berkeley Institute of Data Science (BIDS)</a> are the authors of <a href="http://macroeco.org/">Macroeco</a>, a python package that “supports the analysis of empirical macroecological patterns and the comparison of these patterns to theoretical predictions.”</p>
 
-<p>He and Mark put together a great intro video which I’ve linked to above —  in fact, I think Justin’s approach should serve as a template for anybody doing an open source Python package: a fully featured package, a useful helper UI, an academic paper and a YouTube video to tie it all together!</p>
+<p>He and Mark put together a great intro video which embedded below —  in fact, I think Justin’s approach should serve as a template for anybody doing an open source Python package: a fully featured package, a useful helper UI, an academic paper and a YouTube video to tie it all together!</p>
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/mQ4LVw_MQg8" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 <h2>A Word with Co-creator Justin Kitzes</h2>
+
 <p>Justin was kind enough to answer some specific questions from Tech+Earth about his work on Macroeco and using python as a research tool. (Scroll to the bottom for a quick list of some of the resources Justin mentions.)</p>
 
 <p><em>Q: What kind of setup do you have for working on Python libraries? What IDE or editor, helper tools, common practices?</em></p>
@@ -62,3 +65,6 @@ title: Macroeco : Using Python for Ecology Research
 	<li><a href="">Docker a virtual container technology for software</a></li>
 	<li><a href="">wxPython a blending of the wxWidgets C++ class library with the Python programming language.</a></li>
 </ul>
+
+
+
