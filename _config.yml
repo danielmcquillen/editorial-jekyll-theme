@@ -4,8 +4,8 @@ subtitle: Tools for sustainable development
 email: daniel@mcquilleninteractive.com
 description: News on technology in sustainability.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
-author:
+url: "http://techplusearth.com" # the base hostname & protocol for your site
+author: Daniel McQuillen
 street_address: 
 city: 
 state: Tasmania
