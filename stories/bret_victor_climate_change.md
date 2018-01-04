@@ -1,7 +1,6 @@
  ---
 layout: page
 title: Bret Victor asks “What Can a Technologist Do About Climate Change”
-author: Daniel McQuillen
 ---
 
 <div class="image-container">
