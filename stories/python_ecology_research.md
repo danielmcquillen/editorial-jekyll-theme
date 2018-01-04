@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Macroeco : Using Python for Ecology Research
+author: Daniel McQuillen
 ---
 
 <h1>Macroeco : Using Python for Ecology Research</h1>
