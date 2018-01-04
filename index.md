@@ -17,9 +17,9 @@ layout: default
 			</ul>
 		</article>
 		<article>
-			<a href="#" class="image"><img src="assets/images/pic02.jpg" alt="" /></a>
-			<h3>Coming soon: Some Geeky Article</h3>
-			<p>.</p>
+			<a href="#" class="image"><img src="assets/images/hurrican-fp.jpg" alt="Photo of Hurricane Patricia by astronaut Scott Kelly. (Creative Commons Attribution 2.0 Generic.)" /></a>
+			<h3>Technologists vs. Climate Change</h3>
+			<p>Bret Victor asks “What Can a Technologist Do About Climate Change”</p>
 			<ul class="actions">
 				<li><a href="#" class="button">More</a></li>
 			</ul>
