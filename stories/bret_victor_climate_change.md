@@ -4,7 +4,7 @@ title: Bret Victor asks “What Can a Technologist Do About Climate Change”
 ---
 
 <div class="post-header-image">
-	<img src="assets/images/hurricane-.jpg"">
+	<img src="assets/images/hurricane-.jpg" alt="Photo of Hurricane Patricia by astronaut Scott Kelly. (Creative Commons Attribution 2.0 Generic.)">
 	<div class="image-caption">Photo of Hurricane Patricia by astronaut Scott Kelly. (Creative Commons Attribution 2.0 Generic.)</div>  
 </div>
 
