@@ -17,11 +17,11 @@ layout: default
 			</ul>
 		</article>
 		<article>
-			<a href="#" class="image"><img src="assets/images/hurrican-fp.jpg" alt="Photo of Hurricane Patricia by astronaut Scott Kelly. (Creative Commons Attribution 2.0 Generic.)" /></a>
+			<a href="#" class="image"><img src="assets/images/hurricane-fp.jpg" alt="Photo of Hurricane Patricia by astronaut Scott Kelly. (Creative Commons Attribution 2.0 Generic.)" /></a>
 			<h3>Technologists vs. Climate Change</h3>
 			<p>Bret Victor asks “What Can a Technologist Do About Climate Change”</p>
 			<ul class="actions">
-				<li><a href="#" class="button">More</a></li>
+				<li><a href="stories/bret_victor_climate_change.html" class="button">More</a></li>
 			</ul>
 		</article>
 		<article>
