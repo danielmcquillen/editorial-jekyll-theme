@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Macroeco. Using Python for Ecology Research
+title: "Macroeco: Using Python for Ecology Research"s
 ---
 
 <h1>Macroeco : Using Python for Ecology Research</h1>
