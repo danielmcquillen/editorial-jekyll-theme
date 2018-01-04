@@ -27,6 +27,9 @@
 
                   {% if page.image %}
                 	<span class="image main"><img src="{{ page.image | absolute_url }}" alt="" /></span>
+                    {% if page.image_caption %}
+                      <div class="image-caption">{{ page.image_caption }}</div>   
+                    {% endif}
                   {% endif %}
 
                 {{ content }}
