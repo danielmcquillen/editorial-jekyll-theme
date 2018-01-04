@@ -1,12 +1,10 @@
  ---
 layout: page
 title: Bret Victor asks “What Can a Technologist Do About Climate Change”
----
 
-<div class="image-container">
-	<img width="720" height="340" src="assets/images/hurricane.jpg"  sizes="(max-width: 720px) 100vw, 720px">
-	<div class="image-caption">Photo of Hurricane Patricia by astronaut Scott Kelly. (Creative Commons Attribution 2.0 Generic.)</div>		
-</div>
+image: assets/images/hurricane-fp.jpg
+image_caption: Photo of Hurricane Patricia by astronaut Scott Kelly. (Creative Commons Attribution 2.0 Generic.)
+---
 
 I checked Hacker News this morning and was surprised to see a post entitled <a href="http://worrydream.com/ClimateChange/">“What Can a Technologist Do About Climate Change”</a> in the #2 spot. The author, Brett Victor, is well known in tech circles for his visionary work in programming and user interfaces. He’s quite a craftsman and his thoughtfulness and empathy are evident in his work as well as his writing.
 
