@@ -5,7 +5,7 @@ author: Daniel McQuillen
 ---
 
 <div class="image-container">
-	<img width="720" height="340" src="assets/hurricane.jpg"  sizes="(max-width: 720px) 100vw, 720px">
+	<img width="720" height="340" src="assets/images/hurricane.jpg"  sizes="(max-width: 720px) 100vw, 720px">
 	<div class="image-caption">Photo of Hurricane Patricia by astronaut Scott Kelly. (Creative Commons Attribution 2.0 Generic.)</div>		
 </div>
 
