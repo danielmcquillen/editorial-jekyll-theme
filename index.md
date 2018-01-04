@@ -9,7 +9,7 @@ layout: default
 	</header>
 	<div class="posts">
 		<article>
-			<a href="#" class="image"><img src="assets/images/macroeco-logo.png" alt="" /></a>
+			<a href="stories/python_ecology_research.html" class="image"><img src="assets/images/macroeco-logo.png" alt="" /></a>
 			<h3>Macroeco : Using Python for Ecology Research</h3>
 			<p>Macroeco helps you analyze empirical patterns in ecological data. We found out more about the library in this short interview with a co-creator Justin Kitzes. </p>
 			<ul class="actions">
@@ -17,7 +17,7 @@ layout: default
 			</ul>
 		</article>
 		<article>
-			<a href="#" class="image"><img src="assets/images/hurricane-fp.jpg" alt="Photo of Hurricane Patricia by astronaut Scott Kelly. (Creative Commons Attribution 2.0 Generic.)" /></a>
+			<a href="stories/bret_victor_climate_change.html" class="image"><img src="assets/images/hurricane-fp.jpg" alt="Photo of Hurricane Patricia by astronaut Scott Kelly. (Creative Commons Attribution 2.0 Generic.)" /></a>
 			<h3>Technologists vs. Climate Change</h3>
 			<p>Visionary designer and programmer Bret Victor asks “What Can a Technologist Do About Climate Change?"</p>
 			<ul class="actions">

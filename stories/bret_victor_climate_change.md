@@ -16,7 +16,7 @@ As you read the article and feel inspired, take a moment to notice Bret’s stra
 
 I particularly like how he makes data become part of the story, as in the <a href="https://en.wikipedia.org/wiki/Alluvial_diagram">alluvial diagram</a> on energy consumption coupled with <a href="http://worrydream.com/ClimateChange/#consumption-transportation">his commentary on it</a>, rather than just tossing up multi-colored chart junk like some fairground fireworks.
 
-<img src="assets/bret-victor-diagram.png"/>
+<img src="assets/images/bret-victor-diagram.png"/>
 
 The post is important because it calls for techies to lend their skills. To be sure. But I’m calling out the visual design because visual design is essential to the success of any software or hardware project, even hard-core engineering ones. Often government labs researching these issues and cranking out power tools on GitHub get caught up in the engineering side of the (good) work they’re doing, and end up giving UI and UX little thought. “Who cares about the UI as long as all those complicated algorithms are accurate?” The end-user, that’s who, and the more attention given to UI and UX the better adoption rates will be.
 
@@ -24,7 +24,10 @@ Therefore the visual side of the post is almost as important as the technical si
 
 On the programming side, Bret makes the claim that Julia is a language worth investing in if you like programming and want to help those doing scientific research:
 
-Here’s an opinion you might not hear much — I feel that one effective approach to addressing climate change is contributing to the development of <a href="https://web.archive.org/web/20160314190551/http://julialang.org/">Julia</a>. Julia is a modern technical language, intended to replace Matlab, R, SciPy, and C++ on the scientific workbench. It’s immature right now, but it has beautiful <a href="http://arxiv.org/abs/1411.1607">foundations</a>, enthusiastic users, and a lot of potential.
+<blockquote>
+	Here’s an opinion you might not hear much — I feel that one effective approach to addressing climate change is contributing to the development of <a href="https://web.archive.org/web/20160314190551/http://julialang.org/">Julia</a>. Julia is a modern technical language, intended to replace Matlab, R, SciPy, and C++ on the scientific workbench. It’s immature right now, but it has beautiful <a href="http://arxiv.org/abs/1411.1607">foundations</a>, enthusiastic users, and a lot of potential.
+</blockquote>
+
 
 He also mentions languages suited for modeling and simulation like Mathmatica, Simulink and Modelica. I know that Michael Wetter over at LBNL is doing a lot of work building a <a href="https://simulationresearch.lbl.gov/modelica">toolkit</a> in Modelica for building energy and control systems modeling.
 
