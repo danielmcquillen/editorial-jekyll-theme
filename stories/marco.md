@@ -7,9 +7,9 @@ category: interview
 tags: python, pandas
 ---
 
-<div class="post-header-image">
+<span class="image main">
 	<img src="/assets/images/marco.jpg" alt="Marco Bonvini" >
-</div>
+</span>
 
 
 This month’s interview is with Marco Bonvini, an accomplished data scientist working in the area of building energy analysis. As in all Tech+Earth interviews, we encouraged Marco to share a practical tip or code example drawn from his daily work. Read on to learn more about how Marco uses Python and Pandas in his efforts to make buildings more efficient. (Don’t forget to checkout <a href="https://github.com/mbonvini/EnergyAnalysisWithPandas/wiki">the sample code files on GitHub.</a>)
