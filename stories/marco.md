@@ -7,9 +7,9 @@ category: interview
 tags: python, pandas
 ---
 
-<span class="image main">
+<div class="post-header-image">
 	<img src="/assets/images/marco.jpg" alt="Marco Bonvini" >
-</span>
+</div>
 
 
 This month’s interview is with Marco Bonvini, an accomplished data scientist working in the area of building energy analysis. As in all Tech+Earth interviews, we encouraged Marco to share a practical tip or code example drawn from his daily work. Read on to learn more about how Marco uses Python and Pandas in his efforts to make buildings more efficient. (Don’t forget to checkout <a href="https://github.com/mbonvini/EnergyAnalysisWithPandas/wiki">the sample code files on GitHub.</a>)
@@ -178,7 +178,9 @@ plt.show()
 
 The plot shows the energy used by the houses in the time period being analyzed.
 
+<span class="image">
 <img src="/assets/images/marco-plot-1.png"/>
+</span>
 
 {% highlight python %}
 # Compute the energy in kWh
@@ -201,7 +203,9 @@ plt.show()
 
 The plot shows the energy used by the houses in the time period being analyzed.
 
+<span class="image">
 <img src="/assets/images/marco-plot-2.png"/>
+</span>
 
 {% highlight python %}
 # Let's try to compute the average power consumption per house for hourly intervals
@@ -217,7 +221,9 @@ plt.show()
 
 The plot shows how the different houses consume power at different hours of the day. Such a plot can be used to detect trends and/or recurring patterns or hourly power consumption.
 
+<span class="image">
 <img src="/assets/images/marco-plot-3.png"/>
+</span>
 
 {% highlight python %}
 # Compute the load duration curve.
@@ -238,7 +244,9 @@ plt.show()
 
 This plot, also called load duration curve, shows how the power consumption is distributed across different operating conditions. For example, it is evident that most of the time the houses consume a small amount of power compared to their peak consumption. Such a plot can be used to spot areas (or operational regimes) where it makes sense to focus in order to improve the overall energy consumption.
 
-<img src="/assets/images/marco-plot-3.png"/>
+<span class="image">
+<img src="/assets/images/marco-plot-4.png"/>
+</span>
 
 Interested readers can find the code and the data <a href="https://github.com/mbonvini/EnergyAnalysisWithPandas/wiki">here on Github</a>.
 
