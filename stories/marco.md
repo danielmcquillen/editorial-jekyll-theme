@@ -2,6 +2,7 @@
 layout: page
 title: Interview with Marco Bonvini
 date: 2016-01-25
+author: Daniel McQuillen
 category: interview
 tags: python, pandas
 ---

@@ -2,6 +2,7 @@
 layout: page
 title: "Macroeco: Using Python for Ecology Research"s
 category: interview
+author: Daniel McQuillen
 tags: python, ecology
 date: 2015-11-24
 ---
