@@ -221,7 +221,7 @@ plt.show()
 
 The plot shows how the different houses consume power at different hours of the day. Such a plot can be used to detect trends and/or recurring patterns or hourly power consumption.
 
-<span class="image">
+<span class="image fit">
 <img src="/assets/images/marco-plot-3.png"/>
 </span>
 
