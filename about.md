@@ -13,5 +13,5 @@ My name is Daniel and I’m an <a href="http://www.mcquilleninteractive.com/">in
 
 You can email me at <a href="mailto:daniel@mcquilleninteractive.com">daniel@mcquilleninteractive.com</a> or catch up with me <a href="">on twitter</a>.
 
-<img src="daniel-mcquillen.png" alt="Daniel McQuillen photo"/>
+<img src="/assets/images/daniel-mcquillen.png" alt="Daniel McQuillen photo"/>
 
