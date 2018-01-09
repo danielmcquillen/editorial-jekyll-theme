@@ -11,7 +11,7 @@ layout: default
 		<article>
 			<a href="stories/python_ecology_research.html" class="image"><img src="assets/images/macroeco-logo.png" alt="" /></a>
 			<h3>Macroeco : Using Python for Ecology Research</h3>
-			<p>Macroeco helps you analyze empirical patterns in ecological data. We found out more about the library in this short interview with a co-creator Justin Kitzes. </p>
+			<p>Macroeco helps you analyze empirical patterns in ecological data. We found out more about the library in this short interview with co-creator Justin Kitzes. </p>
 			<ul class="actions">
 				<li><a href="stories/python_ecology_research.html" class="button">More</a></li>
 			</ul>
