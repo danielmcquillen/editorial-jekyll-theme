@@ -25,7 +25,7 @@ layout: default
 			</ul>
 		</article>
 		<article>
-			<a href="#" class="image"><img src="assets/images/pic02.jpg" alt="" /></a>
+			<a href="#" class="image"><img src="assets/images/joints-fp.jpg" alt="" /></a>
 			<h3>Coming soon: Some Geeky Article</h3>
 			<p>.</p>
 			<ul class="actions">
@@ -33,28 +33,6 @@ layout: default
 			</ul>
 		</article>
 		<article>
-			<a href="#" class="image"><img src="assets/images/pic02.jpg" alt="" /></a>
-			<h3>Coming soon: Some Geeky Article</h3>
-			<p>.</p>
-			<ul class="actions">
-				<li><a href="#" class="button">More</a></li>
-			</ul>
-		</article>
-		<article>
-			<a href="#" class="image"><img src="assets/images/pic02.jpg" alt="" /></a>
-			<h3>Coming soon: Some Geeky Article</h3>
-			<p>.</p>
-			<ul class="actions">
-				<li><a href="#" class="button">More</a></li>
-			</ul>
-		</article>
-		<article>
-			<a href="#" class="image"><img src="assets/images/pic02.jpg" alt="" /></a>
-			<h3>Coming soon: Some Geeky Article</h3>
-			<p>.</p>
-			<ul class="actions">
-				<li><a href="#" class="button">More</a></li>
-			</ul>
-		</article>
+		
 	</div>
 </section>
