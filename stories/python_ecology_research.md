@@ -1,6 +1,9 @@
 ---
 layout: page
 title: "Macroeco: Using Python for Ecology Research"s
+category: interview
+tags: python, ecology
+date: 2015-11-24
 ---
 
 <h1>Macroeco : Using Python for Ecology Research</h1>

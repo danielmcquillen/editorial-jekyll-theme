@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Interview with Marco Bonvini
-date: 2018-01-08
+date: 2016-01-25
+category: interview
+tags: python, pandas
 ---
 
 <div class="post-header-image">
