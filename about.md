@@ -9,7 +9,7 @@ This blog is about the intersection between tech and sustainabilty. Check back f
 
 I  believe we can create a sustainable world, and at least part of that effort involves software and high-tech. Working on the cutting edge of technology is fun and potentially helpful, but only if our work includes humility, respect for the wisdom of our ancestors, and even an appreciation for the contrarian argument that ‘green-tech’ is inherently flawed.
 
-My name is Daniel and I’m an independent software developer living in beautiful Hobart, Australia. I’ve worked on software applications that help make buildings more efficient, including the SEED project, COMFEN desktop application, SensorSuitcase project and ESTCP project, all for Lawrence Berkeley National Labs (LBNL). Before that, I was also one of the founding editors of the green building magazine Environmental Design & Construction.
+My name is Daniel and I’m an independent software developer living in beautiful Hobart, Australia. I’ve worked on software applications that help make buildings more efficient, including the SEED project, COMFEN desktop application, SensorSuitcase project and ESTCP project, all for Lawrence Berkeley National Labs (LBNL). I'm also the lead developer on the <a href="https://courses.ibiology.org">iBiology Courses</a> team, bringing quality education to scientists. A long time ago I was one of the founding editors of the green building magazine Environmental Design & Construction, which I'm still quite proud of.
 
 You can email me at <a href="mailto:daniel@mcquilleninteractive.com">daniel@mcquilleninteractive.com</a> or catch up with me <a href="">on twitter</a>.
 
