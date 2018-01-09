@@ -52,11 +52,9 @@ With respect to this technology, I’d like to talk about an open source project
 
 ## Can you show an example use of Pandas?
 
-I’d like to show something that can help in many situations, making sense of a dataset with multiple time series of the same type using a data structure provided by Pandas, the Panel.
+I’d like to show something that can help in many situations, making sense of a dataset with multiple time series of the same type using a data structure provided by Pandas, the Panel. Before talking about the Panel, however, I’d like to take a few steps back and briefly describe other common data structures we find in pandas on leveraged by the Panels.
 
-Before talking about the Panel I’d like to take a few steps back and briefly describe other common data structures we find in pandas on leveraged by the Panels.
-
-First things first, because we deal with time series we have the Series. A Series is an object that contains an array of values with an index associated to them. In case of a time series the index can contain date and time values but it could be anything.
+First things first: because we deal with time series we have the Series. A Series is an object that contains an array of values with an index associated to them. In case of a time series the index can contain date and time values but it could be anything.
 
 Second we have the DataFrame. If you think the Series as a column, the DataFrame is a table. The DataFrame is an object that groups multiple Series that share the same index. The DataFrame is one of the most used data structures in Pandas. DataFrames let you work as if you had a very fast in memory data base that can process data sets up to few GB.
 
@@ -74,7 +72,7 @@ Sat Jan 09 2016 00:06:00 GMT-0800 (PST),122.89474233,0.751786349902,92.247847839
 ...
 {% endhighlight %}
 
-and named like house<#house>.csv.
+and named like <code>house<#house>.csv.</code>
 
 This is a quite common situation. We have N data sets containing time series data with an homogeneous data structure. If you think about it we have have to deal with three dimensions, and the Panel seems just the right data structure for this kind of job.
 The dimensions we’ll consider are
