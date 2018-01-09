@@ -7,7 +7,7 @@ category: interview
 tags: python, pandas
 ---
 
-<div class="post-header-image">
+<div class="post-header-image image fit">
 	<img src="/assets/images/marco.jpg" alt="Marco Bonvini" >
 </div>
 
@@ -178,7 +178,7 @@ plt.show()
 
 The plot shows the energy used by the houses in the time period being analyzed.
 
-<span class="image">
+<span class="image fit">
 <img src="/assets/images/marco-plot-1.png"/>
 </span>
 
@@ -203,7 +203,7 @@ plt.show()
 
 The plot shows the energy used by the houses in the time period being analyzed.
 
-<span class="image">
+<span class="image fit">
 <img src="/assets/images/marco-plot-2.png"/>
 </span>
 
@@ -244,7 +244,7 @@ plt.show()
 
 This plot, also called load duration curve, shows how the power consumption is distributed across different operating conditions. For example, it is evident that most of the time the houses consume a small amount of power compared to their peak consumption. Such a plot can be used to spot areas (or operational regimes) where it makes sense to focus in order to improve the overall energy consumption.
 
-<span class="image">
+<span class="image fit">
 <img src="/assets/images/marco-plot-4.png"/>
 </span>
 
