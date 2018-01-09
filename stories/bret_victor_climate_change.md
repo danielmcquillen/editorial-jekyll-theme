@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bret Victor asks “What Can a Technologist Do About Climate Change”
-date: 2018-01-08
+date: 2015-11-24
 author: Daniel McQuillen
 category: visualization
 ---
