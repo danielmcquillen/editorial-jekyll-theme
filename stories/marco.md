@@ -253,7 +253,7 @@ Here’s a list of interesting technologies and/or tools that I think are worth 
 
 <i>Building energy modelers:</i>
 
-I think you should seriously look at OpenStudio because it will gain even more popularity and eventually will be the interface to work with EnergyPlus. It’s pretty powerful, has a nice looking UI, many tools built around it, and an API accessible from a scripting environment. Here’s an example of what I was able to generate by using the OpenStudio Ruby API. (See attachment <a href="report_small_office_new.zip">report_small_office_new.zip</a>)
+I think you should seriously look at OpenStudio because it will gain even more popularity and eventually will be the interface to work with EnergyPlus. It’s pretty powerful, has a nice looking UI, many tools built around it, and an API accessible from a scripting environment. Here’s an example of what I was able to generate by using the OpenStudio Ruby API. (See attachment <a href="/assets/downloads/report_small_office_new.zip">report_small_office_new.zip</a>)
 
 <i>At-large energy modelers (from buildings to cities):</i>
 
