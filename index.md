@@ -26,8 +26,8 @@ layout: default
 		</article>
 		<article>
 			<a href="#" class="image"><img src="assets/images/marco-fp.jpg" alt="" /></a>
-			<h3>Marco Bonvini and Python in the Built Environment</h3>
-			<p>This month’s interview is with Marco Bonvini, an accomplished data scientist working in the area of building energy analysis.</p>
+			<h3>Marco Bonvini on Python in the Built Environment</h3>
+			<p>An interview with Marco Bonvini, an accomplished data scientist working in the area of building energy analysis.</p>
 			<ul class="actions">
 				<li><a href="stories/marco.html" class="button">More</a></li>
 			</ul>
