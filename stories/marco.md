@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Interview with Marco Bonvini
+date: 2018-01-08
 ---
 
 <div class="post-header-image">
