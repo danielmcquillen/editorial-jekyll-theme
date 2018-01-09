@@ -53,12 +53,15 @@ blockquote, q {
 }
 
 .post {
-	h1 {
-		margin: 0px;
-	}
-	.published-date {
-		font-color: #777;
-		font-style: italic;
+	header {
+		margin-bottom: 1.2em;
+		h1 {
+			margin: 0px;
+		}
+		.published-date {
+			font-color: #777;
+			font-style: italic;
+		}
 	}
 }
 
