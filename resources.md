@@ -1,6 +1,3 @@
-
-
-
 <h1>Resources</h1>
 
 <p>A collection of resources that are related to software and/or sustainability.</p>
