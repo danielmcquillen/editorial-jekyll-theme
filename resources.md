@@ -20,10 +20,9 @@ title: Resources
 <h2>Journals</h2>
 <ul>
 
-	<li><a href="http://www.ecography.org/">Ecography</a> – empirical and theoretical work in spatial ecology, macroecology and biogeography.
-	<li><a href="http://www.consiliencejournal.org/">Consilience Journal</a> – a journal on sustainable development.
-	<li><a href="http://sspp.proquest.com/">Sustainability: Science, Practice & Policy</a> – a peer-reviewed, open-access journal on sustainability science and policy practice.
-	</li>
+	<li><a href="http://www.ecography.org/">Ecography</a> – empirical and theoretical work in spatial ecology, macroecology and biogeography.</li>
+	<li><a href="http://www.consiliencejournal.org/">Consilience Journal</a> – a journal on sustainable development.</li>
+	<li><a href="http://sspp.proquest.com/">Sustainability: Science, Practice & Policy</a> – a peer-reviewed, open-access journal on sustainability science and policy practice.</li>
 </ul>
 
 <h2>Proceedings</h2>
