@@ -3,7 +3,7 @@ layout: page
 title: About Tech+Earth
 ---
 <br/>
-I’m concerned about the environment. I also geek out on software dev. This is my blog is about the intersection of tech and sustainabilty. I write about the use of technology in areas like building energy science, agroecology, ecology and other fields where interesting work is being done and some kind of positive effect is possible.
+I’m concerned about the environment. I also geek out on software dev. This is my blog is about the intersection of tech and sustainabilty. I write about technology use in areas like building energy science, agroecology, ecology and other fields where interesting work is being done and some kind of positive effect is possible.
 
 Things seem grim these days, but I believe we can create a sustainable world. At least part of that effort involves software and high tech solutions. Smart use of technology will be helpful, but only if the work includes humility, respect for the wisdom of our ancestors, and an continual openness to competing viewpoints, such as the belief that <a href="http://theconversation.com/the-green-tech-future-is-a-flawed-vision-of-sustainability-46681">‘green-tech’ is inherently flawed.</a>
 
