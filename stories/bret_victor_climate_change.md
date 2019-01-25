@@ -19,7 +19,9 @@ As you read the article and feel inspired, take a moment to notice Bret’s stra
 
 I particularly like how he makes data become part of the story, as in the <a href="https://en.wikipedia.org/wiki/Alluvial_diagram">alluvial diagram</a> on energy consumption coupled with <a href="http://worrydream.com/ClimateChange/#consumption-transportation">his commentary on it</a>, rather than just tossing up multi-colored chart junk like some fairground fireworks.
 
+<span class="image fit">
 <img src="/assets/images/bret-victor-diagram.png"/>
+</span>
 
 The post is important because it calls for techies to lend their skills. To be sure. But I’m calling out the visual design because visual design is essential to the success of any software or hardware project, even hard-core engineering ones. Often government labs researching these issues and cranking out power tools on GitHub get caught up in the engineering side of the (good) work they’re doing, and end up giving UI and UX little thought. “Who cares about the UI as long as all those complicated algorithms are accurate?” The end-user, that’s who, and the more attention given to UI and UX the better adoption rates will be.
 
